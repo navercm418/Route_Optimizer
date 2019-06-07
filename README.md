@@ -1,4 +1,5 @@
-# Route_Optimizer
+Python3 Script using tkinter Gui
+
 Optimize a list of addresses by driving distances
 
 Enter "Start" address
